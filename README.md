@@ -1,1 +1,3 @@
-# 282544.osinthijacking.itmo.xyz
+---
+permalink: /index.html
+---
